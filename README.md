@@ -5,5 +5,5 @@
 <h2>Running</h2>
 <p>So far, this is a static web page with some javascript and bootstrap on it, so it can be run in any server you want, like http-server.<br> This is the web link to see it in any web browser, does not matter if it is on a desktop or a mobile device: https://afmoreno10.github.io </p>
 
-<br><br>
-<p>Made by Andrés Felipe Moreno Marín. <br> This project count with an MIT license, which can be consulted on the following link: 
+<br>
+<p>Made by Andrés Felipe Moreno Marín. <br> This project count with an MIT license, which can be consulted on the following link: https://github.com/afmoreno10/afmoreno10.github.io/blob/master/LICENSE 
